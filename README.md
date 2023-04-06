@@ -1,4 +1,4 @@
 # MSP-Net
 
 
-We are glad you are interested in our project. Other codes will be published after the paper is published
+Code for "MSP-Net:多尺度点云分类网络", published at _Journal of Computer-Aided Design & Computer Graphics_. 
